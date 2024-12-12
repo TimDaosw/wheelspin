@@ -1,10 +1,10 @@
 const sectors = [
-  { color: "#FFD700", text: "#333333", label: "Sweets" },
-  { color: "#007bff", text: "#333333", label: "You lose" },
-  { color: "#008000", text: "#333333", label: "Sweets" },
-  { color: "#DC143C", text: "#333333", label: "You lose" },
+  { color: "#FFD700", text: "#333333", label: "Enrin" },
+  { color: "#007bff", text: "#333333", label: "Kairo" },
+  { color: "#008000", text: "#333333", label: "Tavian" },
+  { color: "#DC143C", text: "#333333", label: "Ashiel" },
  
-  { color: "#C7B8EA", text: "#333333", label: "You lose" },
+  { color: "#C7B8EA", text: "#333333", label: "Zayden" },
 
   { color: "#0065BD", text: "#333333", label: "Jayson" },
 ];
