@@ -3,14 +3,18 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+html {
+  height:-webkit-fill-available ;
+}
 body {
   height: 100vh;
   display: grid;
   place-items: center;
   margin: 0;
   height: 100vh;
+  height:-webkit-fill-available ;
   background: linear-gradient(to bottom, #aaaaaa, #eeeeee);
+  
 }
 
 #spin_the_wheel {
